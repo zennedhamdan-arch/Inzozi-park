@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1500" viewBox="0 0 1200 1500" role="img" aria-label="Decoration — placeholder">
+  <defs>
+    <radialGradient id="g1-servicedecoration" cx="30%" cy="22%" r="90%">
+      <stop offset="0%" stop-color="#F2EBDB"/>
+      <stop offset="100%" stop-color="#E4D8BE"/>
+    </radialGradient>
+    <filter id="n-servicedecoration">
+      <feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" stitchTiles="stitch"/>
+      <feColorMatrix type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 0.045 0"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="1500" fill="url(#g1-servicedecoration)"/>
+  <polygon points="0,1407 47,1407 23.5,1430" fill="rgba(168,127,53,0.16)"/><polygon points="47,1430 94,1430 70.5,1407" fill="rgba(32,64,47,0.08)"/><polygon points="94,1407 141,1407 117.5,1430" fill="rgba(168,127,53,0.16)"/><polygon points="141,1430 188,1430 164.5,1407" fill="rgba(32,64,47,0.08)"/><polygon points="188,1407 235,1407 211.5,1430" fill="rgba(168,127,53,0.16)"/><polygon points="235,1430 282,1430 258.5,1407" fill="rgba(32,64,47,0.08)"/><polygon points="282,1407 329,1407 305.5,1430" fill="rgba(168,127,53,0.16)"/><polygon points="329,1430 376,1430 352.5,1407" fill="rgba(32,64,47,0.08)"/><polygon points="376,1407 423,1407 399.5,1430" fill="rgba(168,127,53,0.16)"/><polygon points="423,1430 470,1430 446.5,1407" fill="rgba(32,64,47,0.08)"/><polygon points="470,1407 517,1407 493.5,1430" fill="rgba(168,127,53,0.16)"/><polygon points="517,1430 564,1430 540.5,1407" fill="rgba(32,64,47,0.08)"/><polygon points="564,1407 611,1407 587.5,1430" fill="rgba(168,127,53,0.16)"/><polygon points="611,1430 658,1430 634.5,1407" fill="rgba(32,64,47,0.08)"/><polygon points="658,1407 705,1407 681.5,1430" fill="rgba(168,127,53,0.16)"/><polygon points="705,1430 752,1430 728.5,1407" fill="rgba(32,64,47,0.08)"/><polygon points="752,1407 799,1407 775.5,1430" fill="rgba(168,127,53,0.16)"/><polygon points="799,1430 846,1430 822.5,1407" fill="rgba(32,64,47,0.08)"/><polygon points="846,1407 893,1407 869.5,1430" fill="rgba(168,127,53,0.16)"/><polygon points="893,1430 940,1430 916.5,1407" fill="rgba(32,64,47,0.08)"/><polygon points="940,1407 987,1407 963.5,1430" fill="rgba(168,127,53,0.16)"/><polygon points="987,1430 1034,1430 1010.5,1407" fill="rgba(32,64,47,0.08)"/><polygon points="1034,1407 1081,1407 1057.5,1430" fill="rgba(168,127,53,0.16)"/><polygon points="1081,1430 1128,1430 1104.5,1407" fill="rgba(32,64,47,0.08)"/><polygon points="1128,1407 1175,1407 1151.5,1430" fill="rgba(168,127,53,0.16)"/><polygon points="1175,1430 1222,1430 1198.5,1407" fill="rgba(32,64,47,0.08)"/><polygon points="1222,1407 1269,1407 1245.5,1430" fill="rgba(168,127,53,0.16)"/>
+  <text x="80" y="96" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="25" letter-spacing="4" fill="rgba(32,64,47,0.66)">INZOZI PARK</text>
+  <text x="80" y="136" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="17" letter-spacing="3" fill="rgba(32,64,47,0.38)">PHOTOGRAPH COMING SOON</text>
+  <text x="1120" y="1422" text-anchor="end" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="17" fill="rgba(32,64,47,0.38)">public/images/services/decoration.jpg</text>
+  <rect width="1200" height="1500" filter="url(#n-servicedecoration)"/>
+</svg>
